@@ -1618,7 +1618,7 @@ a[href*='tel'], a[href*='mailto'] {
 	left: 0;
 	transition: all .3s ease;
 	pointer-events: none;
-	background: rgba(253, 226, 49, 0.85);
+	background: #90caf9;
 }
 
 .team-classic-caption > * {
@@ -1694,7 +1694,7 @@ a[href*='tel'], a[href*='mailto'] {
 		box-shadow: 0 6px 24px 0 rgba(0, 0, 0, 0.15);
 	}
 	.desktop .team-classic:hover .team-classic-caption {
-		background: rgba(253, 226, 49, 0.85);
+		background: #90caf9;
 	}
 	.desktop .team-classic:hover .team-classic-list-social li,
 	.desktop .team-classic:hover .team-classic-status,
@@ -1874,7 +1874,7 @@ a[href*='tel'], a[href*='mailto'] {
 		box-shadow: 0 6px 24px 0 rgba(0, 0, 0, 0.15);
 	}
 	.desktop .project-classic:hover .project-classic-caption {
-		background: rgba(253, 226, 49, 0.85);
+		background: #90caf9;
 	}
 	.desktop .project-classic:hover .project-classic-tag,
 	.desktop .project-classic:hover .project-classic-title {
