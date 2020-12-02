@@ -6000,3 +6000,7 @@ html.tablet .ui-to-top {
 		margin-right: -73px;
 	}
 }
+
+.team-classic img {
+filter: grayscale(100);
+}
