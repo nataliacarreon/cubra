@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/cabeza.css">
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
   <body>
@@ -33,7 +34,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-desktop" src="images/logo-default-384x188N.png" alt="" width="192" height="94"/><img class="brand-logo-mobile" src="images/logo-default-384x130N.png" alt="" width="192" height="65"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-desktop" src="images/logo-default-384x188.png" alt="" width="192" height="94"/><img class="brand-logo-mobile" src="images/logo-default-384x130.png" alt="" width="192" height="65"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-nav-wrap">
@@ -49,10 +50,10 @@
                     </ul>
                     <ul class="contacts-classic">
                       <li>
-                        <div class="contacts-classic-title">Phone:</div><a href="tel:#">+1 (409) 987–5874</a>
+                        <div class="contacts-classic-title">Phone:</div><a href="tel:#">+01800 FUTURE2100</a>
                       </li>
                       <li>
-                        <div class="contacts-classic-title">E-mail:</div><a href="mailTo:#">info@demolink.org</a>
+                        <div class="contacts-classic-title">E-mail:</div><a href="mailTo:#">cubra@future2100.org</a>
                       </li>
                       <li>
                         <div class="contacts-classic-title">Follow Us:</div>
@@ -79,7 +80,8 @@
         </div>
       </header>
       <!-- DePaletra-->
-      <section class="section section-full section-inset-1 bg-default text-center bg-image background-position-1" id="home" style="background-image: url(images/bg-image-1-1920x800.jpg)">
+      <section class="section section-full section-inset-1 bg-default text-center bg-image background-position-1" id="home" style="background-image: url(images/bg-image-1-1920x800n.jpg)">
+        <div class="particlehead"></div>
         <div class="container">
           <div class="title-style-1-wrap">
             <div class="oh-desktop wow slideInLeft">
@@ -92,6 +94,8 @@
             </div>
           </div><a class="button button-default wow fadeInUp" href="about.html">More about us</a>
         </div>
+        
+
       </section>
       <!-- About Us-->
       <section class="section section-full section-xxl bg-default" id="about">
@@ -99,14 +103,13 @@
           <div class="row row-30 justify-content-center">
             <div class="col-sm-9 col-md-5 cube-classic-wrap">
               <div class="subtitle-classic wow fadeInLeft">Welcome to our website!</div>
-              <h2 class="wow fadeInLeft">Year <br class="d-none d-md-block"><span class="text-primary">2040</span> CUBRA <br class="d-none d-md-block">successful project
-              </h2>
+              <h2 class="wow fadeInLeft">Year <br class="d-none d-md-block"><span class="text-primary">2100</span> CUBRA <br class="d-none d-md-block">Custom your brain</h2>
               <div class="cube-classic cube-classic-1"><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span><span class="cube-classic-item"></span>
               </div>
             </div>
             <div class="col-md-7 col-lg-6 col-xl-5">
-              <p class="wow fadeInRight">Es el año 2040 todos tenemos implantes en la cabeza, que crea un repaldo de tu cerebbro, de esa forma puedes guardar tus habilidades y posteriormente venderlas o comprar</p>
-              <p class="wow fadeInRight">We are a team of top industry leaders with years of experience in web design and development who strive for creating websites that attract the attention of your potential customers and business partners.</p><a class="wow fadeInRight button button-default" href="about.html">More about us</a>
+              <p class="wow fadeInRight">Do you want to increase any skill? Do you need to improve in any area? We have the solution. Buy one of our skills and control it as you wish.</p>
+              <p class="wow fadeInRight">We can help you achieve your goals and wishes</p><a class="wow fadeInRight button button-default" href="about.html">More about us</a>
             </div>
           </div>
         </div>
@@ -138,15 +141,17 @@
       <section class="section section-full section-xl bg-default text-md-center" id="works">
         <div class="container">
           <div class="subtitle-classic wow fadeInUp">marketplace</div>
-          <h2><span class="d-inline-block wow fadeInLeft">selecciona tu </span> <span class="text-primary d-inline-block wow fadeInRight">skill</span>
+          <h2><span class="d-inline-block wow fadeInLeft">Select your </span> <span class="text-primary d-inline-block wow fadeInRight">skill</span>
           </h2>
           <div class="row row-lg row-30">
             <div class="col-sm-6 col-md-4 wow blurIn" data-wow-delay=".2s">
               <article class="project-classic box-md"><img src="images/project-1-370x262.jpg" alt="" width="370" height="262"/>
                 <div class="project-classic-caption">
                   <div>
-                    <h4 class="project-classic-title"><a href="how.html">comprar.</a></h4>
-                    <div class="project-classic-tag">Web Design</div>
+                    <h4 class="project-classic-title"><a href="how.html">Buy</a></h4>
+                    <div class="project-classic-tag">Singer</div>
+                    <div class="project-classic-tag">$500.00</div>
+
                   </div>
                 </div>
               </article>
@@ -155,8 +160,10 @@
               <article class="project-classic box-md"><img src="images/project-2-370x262.jpg" alt="" width="370" height="262"/>
                 <div class="project-classic-caption">
                   <div>
-                    <h4 class="project-classic-title"><a href="how.html">Comprar</a></h4>
-                    <div class="project-classic-tag">Cantante</div>
+                    <h4 class="project-classic-title"><a href="how.html">Buy</a></h4>
+                    <div class="project-classic-tag">Pianist</div>
+                    <div class="project-classic-tag">$500.00</div>
+
                   </div>
                 </div>
               </article>
@@ -165,8 +172,11 @@
               <article class="project-classic box-md"><img src="images/project-3-370x262.jpg" alt="" width="370" height="262"/>
                 <div class="project-classic-caption">
                   <div>
-                    <h4 class="project-classic-title"><a href="how.html">Comprar</a></h4>
-                    <div class="project-classic-tag">Pintor</div>
+                  <h4 class="project-classic-title"><a href="how.html">Buy</a></h4>
+                    <div class="project-classic-tag">Mathematical</div>
+                    <div class="project-classic-tag">$600.00</div>
+
+
                   </div>
                 </div>
               </article>
@@ -175,8 +185,10 @@
               <article class="project-classic box-md"><img src="images/project-4-370x262.jpg" alt="" width="370" height="262"/>
                 <div class="project-classic-caption">
                   <div>
-                    <h4 class="project-classic-title"><a href="how.html">Accessories Inc.</a></h4>
-                    <div class="project-classic-tag">Online Marketing</div>
+                    <h4 class="project-classic-title"><a href="how.html">Buy</a></h4>
+                    <div class="project-classic-tag">Chef</div>
+                    <div class="project-classic-tag">$600.00</div>
+
                   </div>
                 </div>
               </article>
@@ -185,8 +197,10 @@
               <article class="project-classic box-md"><img src="images/project-5-370x262.jpg" alt="" width="370" height="262"/>
                 <div class="project-classic-caption">
                   <div>
-                    <h4 class="project-classic-title"><a href="how.html">Corpadvise</a></h4>
-                    <div class="project-classic-tag">SMM</div>
+                    <h4 class="project-classic-title"><a href="how.html">Buy</a></h4>
+                    <div class="project-classic-tag">Dancer</div>
+                    <div class="project-classic-tag">$500.00</div>
+
                   </div>
                 </div>
               </article>
@@ -195,8 +209,9 @@
               <article class="project-classic box-md"><img src="images/project-6-370x262.jpg" alt="" width="370" height="262"/>
                 <div class="project-classic-caption">
                   <div>
-                    <h4 class="project-classic-title"><a href="how.html">Greenbiz</a></h4>
-                    <div class="project-classic-tag">Branding</div>
+                    <h4 class="project-classic-title"><a href="how.html">Buy</a></h4>
+                    <div class="project-classic-tag">Athletics</div>
+                    <div class="project-classic-tag">$400.00</div>
                   </div>
                 </div>
               </article>
@@ -207,8 +222,8 @@
       <!-- Page Footer-->
       <footer class="section footer-classic section-full section-full-1 section-sm section-inset-2 bg-gray-3 context-dark text-md-center" id="projects">
         <div class="container">
-          <div class="subtitle-classic wow fadeInUp">Get in touch</div>
-          <h2><span class="d-inline-block wow fadeInLeft">Let’s work</span> <span class="d-inline-block wow fadeInRight">together</span>
+          <div class="subtitle-classic wow fadeInUp">Any trouble?</div>
+          <h2><span class="d-inline-block wow fadeInLeft">We can</span> <span class="d-inline-block wow fadeInRight">help</span>
           </h2>
           <!-- RD Mailform-->
           <form class="rd-form rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="bat/rd-mailform.php">
@@ -245,5 +260,11 @@
     <div class="snackbars" id="form-output-global"></div>
     <script src="js/core.min.js"></script>
     <script src="js/script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r61/three.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.11.4/TweenMax.min.js"></script>
+    <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/40480/OBJLoader.js"></script>
+    <script src="//s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
+
+    <script src="js/cabeza.js"></script>
   </body>
 </html>
