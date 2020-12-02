@@ -13,6 +13,14 @@
     <style>.ie-panel{display: none;background: #212121;padding: 10px 0;box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3);clear: both;text-align:center;position: relative;z-index: 1;} html.ie-10 .ie-panel, html.lt-ie-10 .ie-panel {display: block;}</style>
   </head>
   <body>
+    <script>
+      function loop() {
+        var loop1 = document.getElementById('loop1');
+              loop1.setAttribute('loop','true');
+               loop1.play();
+}
+      
+    </script>
     <div class="ie-panel"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <div class="preloader">
       <div class="preloader-body">
@@ -35,7 +43,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-desktop" src="images/logo-default-384x188n.png" alt="" width="192" height="94"/><img class="brand-logo-mobile" src="images/logo-default-384x130n.png" alt="" width="192" height="65"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-desktop" src="images/logo-default-384x188.png" alt="" width="192" height="94"/><img class="brand-logo-mobile" src="images/logo-default-384x130.png" alt="" width="192" height="65"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-nav-wrap">
@@ -51,10 +59,10 @@
                     </ul>
                     <ul class="contacts-classic">
                       <li>
-                        <div class="contacts-classic-title">Phone:</div><a href="tel:#">+1 (409) 987–5874</a>
+                        <div class="contacts-classic-title">Phone:</div><a href="tel:#">+01800 FUTURE2100</a>
                       </li>
                       <li>
-                        <div class="contacts-classic-title">E-mail:</div><a href="mailTo:#">info@demolink.org</a>
+                        <div class="contacts-classic-title">E-mail:</div><a href="mailTo:#">cubra@dfuture2100.com</a>
                       </li>
                       <li>
                         <div class="contacts-classic-title">Follow Us:</div>
@@ -95,11 +103,14 @@
               </div>
             </div>
             <div class="col-sm-8 col-md-6 wow blurIn">
-              <div class="inset-xl-left-25">
+              <div class="inset-xl-mdl-25">
                 <!-- Owl Carousel-->
-                <div class="owl-carousel owl-style-1" data-loop="true" data-items="1" data-nav="true">
-                  <img src="images/index-1-618x614.jpg" alt="" width="618" height="614"/>
-                  <img src="images/index-2-618x614.jpg" alt="" width="618" height="614"/><img src="images/index-3-618x614.jpg" alt="" width="618" height="614"/>
+                <div class=" owl-style-1" >
+                  <video id="loop1" width="618" height="614" controls autoplay>
+                    <source src="images/CapsulaCubra.mp4" type="video/mp4">
+                  Your browser does not support the video tag.
+                  </video> 
+                
                 </div>
               </div>
             </div>
